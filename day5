@@ -1,0 +1,9 @@
+#this is a single line comment
+  print("hi everyone")
+  '''this is multiline comment 
+  that used for two or more line'''
+  a=3
+  if(a<=3):
+  print("less than three")
+  else
+  print("greater than three")
