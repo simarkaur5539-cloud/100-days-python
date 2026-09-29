@@ -1,0 +1,11 @@
+a=1
+  print(a,type(a))
+b=True
+  print(b,type(b))
+  c="sitra"
+  print(c,type(c))
+  d=None
+  print(d,type(d))
+  list=[1,4,5,3,6]#list are mutable can be modified
+  tuple=(("parrot","sparrow"),("tiger","lion"))#tuples are immutable and can not change or modified
+  dict1={"name":"reeta","age":34,"branch":"cs"}
