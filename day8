@@ -1,0 +1,6 @@
+n= 6
+m= 3
+print('addition',n+m)
+print('subtraction',n-m)
+print('multiplication',n*m)
+print('division',n/m)
