@@ -1,0 +1,11 @@
+str="45"
+ x=5
+  str_n=int(str)
+  sum=x+str_n
+  print(sum)
+  a=7
+  print(type(a))
+  b=6.8
+  print(type(b))
+  c=True
+  print(type(c))
