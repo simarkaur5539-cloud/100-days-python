@@ -1,0 +1,13 @@
+colors=["white","red","green","blue"]
+colors.sort()
+print(colors)
+num=[4,6,2,6,8,3,9]
+num.sort()
+print(num)
+num.sort(reverse=True)
+print(num)
+print(num.reverse())
+print(colors.index("red"))
+print(colors.count("blue"))
+lets=num.copy()
+print(lets)
