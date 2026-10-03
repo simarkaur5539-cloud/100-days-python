@@ -1,0 +1,19 @@
+cit={"india","usa","uk"}
+cit1={"russia","ireland","uk"}
+cit3=cit.union(cit1)
+print(cit3)
+cit.update(cit1)
+print(cit)
+cit5=cit.intersection(cit1)
+print(cit5)
+cit6=cit.symmetric_difference(cit1)
+print(cit6)
+cit.add("france")
+print(cit)
+cit.remove("usa")
+print(cit)
+lt={"si",45,"cs"}
+if "si"in lt:
+    print("yes")        
+else:
+    print("no") 
